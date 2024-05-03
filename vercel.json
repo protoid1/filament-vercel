@@ -30,6 +30,5 @@
         "LOG_CHANNEL": "stderr",
         "SESSION_DRIVER": "cookie",
         "VIEW_COMPILED_PATH": "/tmp"
-    },
-    "buildCommand": "php artisan route:cache"
+    }
 }
